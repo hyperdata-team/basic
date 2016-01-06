@@ -1,0 +1,5 @@
+FILE B
+
+NEW CONTENT
+
+Test1234
