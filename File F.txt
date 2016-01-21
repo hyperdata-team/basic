@@ -3,3 +3,13 @@ New Begin
 1234 - 1234
 
 abcd - abcd
+
+<<<<<<< HEAD
+new
+=======
+SUPER
+
+
+
+vvvvv
+>>>>>>> f9408b1... NN123fdfsdf
